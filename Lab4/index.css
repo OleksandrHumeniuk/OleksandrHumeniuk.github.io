@@ -187,6 +187,9 @@ main{
         flex-direction: column;
     }
 
+    h1{
+        font-size: 40px;
+    }
 
     #width-wrapper{
         width: 80%;
@@ -245,6 +248,10 @@ main{
     }
     #section-content{
         margin-left: 20px;
+    }
+
+    h1{
+        font-size: 30px;
     }
 
     #first-column{
